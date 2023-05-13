@@ -1,1 +1,2 @@
 This is a learning and practice prject for webscrapping. If this violates anyones rights of any form please notify me and I shall remove the script immediately.
+This script will fetch all the coin names on all of the 108 pages of https://www.coingecko.com/ and write it to a CSV file along with its individual page URL.
